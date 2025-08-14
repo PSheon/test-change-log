@@ -3,7 +3,7 @@
   "packages": {
     ".": {
       "release-type": "node",
-      "package-name": "test-change-log",
+      "package-name": "GOOD",
       "changelog-path": "CHANGELOG.md",
       "changelog-sections": [
         {
