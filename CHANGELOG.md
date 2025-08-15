@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 This project uses [Release Please](https://github.com/googleapis/release-please) to automate releases.
 
+## [1.3.0](https://github.com/PSheon/test-change-log/compare/GOOD-v1.2.0...GOOD-v1.3.0) (2025-08-15)
+
+
+### ✨ Features
+
+* added CODEOWNERS. ([064b09e](https://github.com/PSheon/test-change-log/commit/064b09e29f172b8a91f5644fb00426c80041467e))
+
 ## [1.2.0](https://github.com/PSheon/test-change-log/compare/GOOD-v1.1.0...GOOD-v1.2.0) (2025-08-14)
 
 
